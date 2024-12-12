@@ -7,9 +7,6 @@ struct student {
     char name[30];
     int grade;
 };
-// Array of students
-
-
 
 struct student fill_student() {
 
